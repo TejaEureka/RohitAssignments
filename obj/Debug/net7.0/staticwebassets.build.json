@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kbL4otHtKV6kwjFiAFYOhqnNnPS07n96KH0ac7Cptgg=",
+  "Source": "dotnet-jan-24-mac",
+  "BasePath": "_content/dotnet-jan-24-mac",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
